@@ -2,6 +2,7 @@
 
 DiPRL is a compact implementation of Differentiable Discrete Programmatic Reinforcement Learning. The project trains interpretable programmatic policies: policies represented as small if/else-style programs over state features instead of only as opaque neural-network action heads.
 
+This work was supported by the [PEER project](https://peer-ai.eu/en/). It explores the learning of interpretable agent behavior.
 
 ## Setup
 
